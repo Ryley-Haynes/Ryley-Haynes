@@ -1,13 +1,13 @@
 <h1 align="center">Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ryley Haynes</h1>
 <h3 align="center">A passionate undergraduate Computer Science student.</h3>
 
-- 📫 How to reach me **ryley.haynes9@gmail.com**
+- 📫 How to reach me: **ryley.haynes9@gmail.com**
 
 - 📄 [Resume](https://docs.google.com/document/d/1jHbTuDVrMRmVXQr8D-D4aJGEyFEC6tW4rmtWoF2i5D8/edit?usp=sharing)
 
 - Personal website [link](https://ryley-haynes.github.io/).
 
-<h3 align="left">Connect with me: [www.linkedin.com/in/ryley-haynes]</h3>
+<h3 align="left">Connect with me: [Linkedin](www.linkedin.com/in/ryley-haynes)</h3>
 <p align="left">
 </p>
 
