@@ -7,7 +7,7 @@
 
 - Personal website [link](https://ryley-haynes.github.io/).
 
-<h3 align="left">Connect with me: [Linkedin](www.linkedin.com/in/ryley-haynes)</h3>
+<h3 align="left">Connect with me: [Linkedin](www.linkedin.com/in/ryley-haynes)
 <p align="left">
 </p>
 
