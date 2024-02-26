@@ -2,14 +2,16 @@
 <h3 align="center">A passionate undergraduate Computer Science student.</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+- Connect with me: (www.linkedin.com/in/ryley-haynes)</h3>
 
 - 📫 How to reach me: **ryley.haynes9@gmail.com**
 
-- 📄 [Resume](https://docs.google.com/document/d/1jHbTuDVrMRmVXQr8D-D4aJGEyFEC6tW4rmtWoF2i5D8/edit?usp=sharing)
-
 - Personal website [link](https://ryley-haynes.github.io/).
 
-- Connect with me: (www.linkedin.com/in/ryley-haynes)</h3>
+- 📄 [Resume](https://docs.google.com/document/d/1jHbTuDVrMRmVXQr8D-D4aJGEyFEC6tW4rmtWoF2i5D8/edit?usp=sharing)
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
