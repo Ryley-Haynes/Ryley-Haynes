@@ -5,7 +5,7 @@
 
 - 📄 Resume [https://docs.google.com/document/d/1rmze3H3-CTCGMnHBIxmfOwtmHWm6_tiPAGKUMg1b4nI/edit?usp=sharing](https://docs.google.com/document/d/1rmze3H3-CTCGMnHBIxmfOwtmHWm6_tiPAGKUMg1b4nI/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [www.linkedin.com/in/ryley-haynes]</h3>
 <p align="left">
 </p>
 
