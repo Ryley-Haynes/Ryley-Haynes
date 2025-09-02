@@ -8,7 +8,8 @@
 
 - Personal website [link](https://ryley-haynes.github.io/).
 
-- 📄 [Resume]([https://docs.google.com/document/d/1jHbTuDVrMRmVXQr8D-D4aJGEyFEC6tW4rmtWoF2i5D8/edit?usp=sharing](https://docs.google.com/document/d/1rmze3H3-CTCGMnHBIxmfOwtmHWm6_tiPAGKUMg1b4nI/edit?tab=t.0))
+- 📄[Resume](https://docs.google.com/document/d/1rmze3H3-CTCGMnHBIxmfOwtmHWm6_tiPAGKUMg1b4nI/edit?tab=t.0)
+
 
 
 
